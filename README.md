@@ -1,8 +1,6 @@
 # Agentes não fogem — slides
 
-> **Rascunho local.** Ainda sem repositório no GitHub e sem deploy. O link do Pages abaixo só vale depois do publish.
-
-**Slides online (depois do publish):** https://sschonss.github.io/talk-agents-dont-escape/
+**Slides online:** https://sschonss.github.io/talk-agents-dont-escape/
 **PDF:** https://sschonss.github.io/talk-agents-dont-escape/agents-dont-escape.pdf
 
 Deck em [Marp](https://marp.app) baseado no artigo

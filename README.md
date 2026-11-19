@@ -1,14 +1,17 @@
 # Agentes não fogem — slides
 
-**Slides online:** https://sschonss.github.io/talk-agents-dont-escape/
-**PDF:** https://sschonss.github.io/talk-agents-dont-escape/agents-dont-escape.pdf
+**Slides (PT):** https://sschonss.github.io/talk-agents-dont-escape/
+**Slides (EN):** https://sschonss.github.io/talk-agents-dont-escape/en/
+**PDF (PT):** https://sschonss.github.io/talk-agents-dont-escape/agents-dont-escape.pdf
+**PDF (EN):** https://sschonss.github.io/talk-agents-dont-escape/en/agents-dont-escape.pdf
 
 Deck em [Marp](https://marp.app) baseado no artigo
 [Agentes não fogem: a gente deixa a porta aberta](https://luizschons.com/pt-br/posts/agents-dont-escape/)
 e no lab [agent-containment-lab](https://github.com/sschonss/agent-containment-lab).
 É a continuação da palestra [Design for Failure](https://luizschons.com/pt-br/posts/design-for-failure/).
 
-- `slides.md`: o deck (44 slides, ~40 min, só slides). A Parte 4 mostra, porta a porta, as saídas reais do lab (`docs/RESULTS.md`). Os slides têm pouco texto. O roteiro e as fontes ficam nas **notas do apresentador** (`<!-- ... -->`).
+- `slides.md`: o deck em português (44 slides, ~40 min, só slides). A Parte 4 mostra, porta a porta, as saídas reais do lab (`docs/RESULTS.md`). Os slides têm pouco texto. O roteiro e as fontes ficam nas **notas do apresentador** (`<!-- ... -->`).
+- `slides.en.md`: the English translation (same 44 slides).
 - `themes/aifa.css`: o mesmo tema da talk AI-Friendly Architecture, mais blocos de terminal e placeholders.
 - `assets/`: foto, diagrama do lab e QR codes.
 
